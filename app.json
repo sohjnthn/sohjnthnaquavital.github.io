@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "AquaVital",
+    "slug": "aquavital-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/correct.png",
+    "scheme": "aquavitalapp",
+    "userInterfaceStyle": "light",
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/correct.png",
+        "backgroundColor": "#E6F4FE"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.sohjnthn.aquavitalapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/correct.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/correct.png",
+          "resizeMode": "cover",
+          "imageWidth": 1284,
+          "backgroundColor": "#AFEEEE"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "94ceafee-188a-44e5-85da-a99602f5c09e"
+      }
+    }
+  }
+}
