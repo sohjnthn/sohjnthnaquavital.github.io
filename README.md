@@ -54,3 +54,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+=
+
+This GitHub repository's website is https://sohjnthn.github.io/sohjnthnaquavital.github.io/
+
+This GitHub repository's Android application can be found via https://drive.google.com/file/d/1mlnvFGSrDSyNyQmFleMOyMN0GAYcl0a_/view?usp=drivesdk
